@@ -10,7 +10,7 @@ I decided to make this project because while I enjoy exercising, I found myself 
 *	 Wanting appropriate clothing for new or frequently changing exercise habits
 *	 Traveling professionals
 ## Features
-## Wireframe of User Stories
+## Wireframes
 [Wireframes](https://github.com/iamakennedy/liftoff-assignments/blob/master/P3-Project_Planning/wireframe%20lokker.pdf)
  **User Accounts:** 
 * View: Home: Anyone can choose between three cities to view gym locations that offer a lokker system
