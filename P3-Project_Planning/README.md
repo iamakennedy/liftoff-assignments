@@ -1,5 +1,3 @@
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
 # Lokker_App
 LiftOff Personal project for LaunchCode
@@ -12,6 +10,8 @@ I decided to make this project because while I enjoy exercising, I found myself 
 *	 Wanting appropriate clothing for new or frequently changing exercise habits
 *	 Traveling professionals
 ## Features
+## Wireframe of User Stories
+[Wireframes](https://github.com/iamakennedy/liftoff-assignments/blob/master/P3-Project_Planning/wireframe%20lokker.pdf)
  **User Accounts:** 
 * View: Home: Anyone can choose between three cities to view gym locations that offer a lokker system
 * View: Location Choice: Anyone can select a gym and locker from a gym location list
